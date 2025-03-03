@@ -1,4 +1,4 @@
-# 🛒 FreshBasket - Your Smart Grocery Shopping App  
+![freshbasket5](https://github.com/user-attachments/assets/fe39d8b8-ddcc-49b8-9efa-50baa73f1572)# 🛒 FreshBasket - Your Smart Grocery Shopping App  
 
 FreshBasket is a modern grocery shopping app built with Flutter & Firebase.  
 It allows users to shop for groceries, add items to their cart, and manage favorites easily.  
@@ -22,3 +22,13 @@ It allows users to shop for groceries, add items to their cart, and manage favor
    cd FreshBasket
    flutter pub get
    flutter run
+
+
+## Images
+
+https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket1.jpeg
+https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket2.jpeg
+https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket3.jpeg
+https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket4.jpeg
+https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket5.jpeg
+https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket6.jpeg

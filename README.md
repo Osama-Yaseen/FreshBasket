@@ -5,12 +5,12 @@ It allows users to browse products, add to cart, and manage their purchases seam
 
 ## 📸 Screenshots
 
-<img src="screenshots/freshbasket1.png" width="300"> 
-<img src="screenshots/freshbasket2.png" width="300">  
-<img src="screenshots/freshbasket3.png" width="300">  
-<img src="screenshots/freshbasket4.png" width="300">  
-<img src="screenshots/freshbasket5.png" width="300">  
-<img src="screenshots/freshbasket6.png" width="300">
+<img src="screenshots/freshbasket1.jpeg" width="300"> 
+<img src="screenshots/freshbasket2.jpeg" width="300">  
+<img src="screenshots/freshbasket3.jpeg" width="300">  
+<img src="screenshots/freshbasket4.jpeg" width="300">  
+<img src="screenshots/freshbasket5.jpeg" width="300">  
+<img src="screenshots/freshbasket6.jpeg" width="300">
 
 ## 🔥 Features
 

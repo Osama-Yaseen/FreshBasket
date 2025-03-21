@@ -1,34 +1,41 @@
-![freshbasket5](https://github.com/user-attachments/assets/fe39d8b8-ddcc-49b8-9efa-50baa73f1572)# 🛒 FreshBasket - Your Smart Grocery Shopping App  
+# 🛒 FreshBasket - Grocery Shopping App 🚀
 
-FreshBasket is a modern grocery shopping app built with Flutter & Firebase.  
-It allows users to shop for groceries, add items to their cart, and manage favorites easily.  
+FreshBasket is a modern grocery shopping app built with **Flutter & Firebase**.  
+It allows users to browse products, add to cart, and manage their purchases seamlessly.
 
-## 📹 Demo Video  
-👉 Watch how FreshBasket works in the video below:  
+## 📸 Screenshots
 
-[![Watch the FreshBasket Demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket.mp4))
+<img src="screenshots/freshbasket1.png" width="300"> 
+<img src="screenshots/freshbasket2.png" width="300">  
+<img src="screenshots/freshbasket3.png" width="300">  
+<img src="screenshots/freshbasket4.png" width="300">  
+<img src="screenshots/freshbasket5.png" width="300">  
+<img src="screenshots/freshbasket6.png" width="300">
 
-## 📱 Features  
-✅ **User Authentication** (Firebase)  
-✅ **Shopping Cart & Favorites**  
-✅ **Dark Mode Support**  
-✅ **Multi-Language Support**  
-✅ **Fast & Responsive UI**  
+## 🔥 Features
 
-## 🚀 Getting Started  
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/Osama-Yaseen/FreshBasket.git
-   cd FreshBasket
-   flutter pub get
-   flutter run
+- 🏬 **Browse & Search Products**
+- 🛍️ **Add to Cart & Wishlist**
+- 🔐 **User Authentication & Profile Setup**
+- 🌙 **Multi-language & Dark Mode Support**
+- 📦 **Real-time product updates using Firebase**
 
+## 📥 Download APK
 
-## Images
+➡️ [Download FreshBasket APK (v1.0.0)](https://github.com/osama-yaseen/FreshBasket/releases/latest)
 
-https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket1.jpeg
-https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket2.jpeg
-https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket3.jpeg
-https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket4.jpeg
-https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket5.jpeg
-https://github.com/Osama-Yaseen/FreshBasket/blob/main/freshbasket6.jpeg
+## 🚀 Installation
+
+```sh
+git clone https://github.com/osama-yaseen/FreshBasket.git
+cd FreshBasket
+flutter pub get
+flutter run
+📌 Tech Stack
+Flutter (Dart)
+Firebase (Firestore, Auth, Storage)
+GetX for State Management
+Lottie for Animations
+📬 Contact
+📧 Email: osama.shehdeh.yaseen@gmail.com
+```
